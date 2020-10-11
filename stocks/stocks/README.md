@@ -6,6 +6,12 @@ This will pull the 5 highest anaylst rated stocks on Robinhood.com.
 You can pull more info on the stock through this program.
 It brings up the Name, Symbol, Price, Change in market value, market cap, and analyst rating given.
 
+type number next to stock to bring up more information on the stock
+
+type 'list' to bring up the top 5 stocks again
+
+type 'exit' to exit program
+
 ## Installation
 
 Add this line to your application's Gemfile:
